@@ -1,0 +1,102 @@
+States number of citys with 100000 peeps
+['Alabama', 4]
+['Alaska', 1]
+['Arizona', 10]
+['Arkansas', 1]
+['California', 73]
+['Colorado', 12]
+['Connecticut', 5]
+['District of Columbia', 1]
+['Florida', 22]
+['Georgia', 7]
+['Hawaii', 1]
+['Idaho', 1]
+['Illinois', 8]
+['Indiana', 4]
+['Iowa', 3]
+['Kansas', 5]
+['Kentucky', 2]
+['Louisiana', 4]
+['Maryland', 1]
+['Massachusetts', 5]
+['Michigan', 6]
+['Minnesota', 3]
+['Mississippi', 1]
+['Missouri', 5]
+['Montana', 1]
+['Nebraska', 2]
+['Nevada', 4]
+['New Hampshire', 1]
+['New Jersey', 6]
+['New Mexico', 2]
+['New York', 5]
+['North Carolina', 9]
+['North Dakota', 1]
+['Ohio', 6]
+['Oklahoma', 4]
+['Oregon', 5]
+['Pennsylvania', 3]
+['Rhode Island', 1]
+['South Carolina', 3]
+['South Dakota', 1]
+['Tennessee', 6]
+['Texas', 37]
+['Utah', 4]
+['Virginia', 7]
+['Washington', 8]
+['Wisconsin', 3]
+
+Counting the number of cities in a range
+> 1000000 : 10
+999999 - 750000 : 7
+749999 - 500000 : 17
+499999 - 400000 : 13
+399999 - 300000 : 17
+299999 - 200000 : 52
+199999 - 100000 : 188
+
+The 20 northern most cities are
+Anchorage ,  Alaska
+Everett ,  Washington
+Spokane ,  Washington
+Seattle ,  Washington
+Bellevue ,  Washington
+Renton ,  Washington
+Kent ,  Washington
+Tacoma ,  Washington
+Fargo ,  North Dakota
+Billings ,  Montana
+Vancouver ,  Washington
+Portland ,  Oregon
+Hillsboro ,  Oregon
+Gresham ,  Oregon
+Minneapolis ,  Minnesota
+Saint Paul ,  Minnesota
+Salem ,  Oregon
+Green Bay ,  Wisconsin
+Eugene ,  Oregon
+Rochester ,  Minnesota
+
+The closest 10 cities not in WA
+['Portland', 'Oregon', 632309, 45.537, 122.65, 232.7992278586526]
+['Gresham', 'Oregon', 110553, 45.5023, 122.4416, 235.6351020246381]
+['Hillsboro', 'Oregon', 102347, 45.5167, 122.9833, 238.8725448914245]
+['Salem', 'Oregon', 164549, 44.9237, 123.0231, 304.2853974316513]
+['Eugene', 'Oregon', 163460, 44.0567, 123.1162, 400.68079274670004]
+['Boise', 'Idaho', 218281, 43.5985, 116.2311, 652.7823288025338]
+['Reno', 'Nevada', 241445, 39.4745, 119.7765, 929.1063562859113]
+['Roseville', 'California', 130269, 38.7657, 121.3032, 988.2387308011478]
+['Sacramento', 'California', 490712, 38.5666, 121.4686, 1009.2743604333746]
+['Santa Rosa', 'California', 174972, 38.4468, 122.7061, 1020.4741978844397]
+
+The Furthest Cities from Seattle
+['Miami', 'Florida', 441003, 25.7752, 80.2086, 4395.681158646672]
+['Hialeah', 'Florida', 237069, 25.8699, 80.3029, 4381.565373847253]
+['Miami Gardens', 'Florida', 113187, 25.9489, 80.2436, 4379.615693219781]
+['Hollywood', 'Florida', 149728, 26.0311, 80.1646, 4378.834041208087]
+['Fort Lauderdale', 'Florida', 178590, 26.1413, 80.1439, 4371.7316498228965]
+['Miramar', 'Florida', 137132, 25.977, 80.3358, 4370.857572439444]
+['Pembroke Pines', 'Florida', 166611, 26.0212, 80.3404, 4367.080946772193]
+['Davie', 'Florida', 100882, 26.0814, 80.2803, 4366.668969012753]
+['Pompano Beach', 'Florida', 107762, 26.2426, 80.129, 4364.9230704134325]
+['Coral Springs', 'Florida', 129485, 26.2708, 80.2593, 4353.433194336103]
